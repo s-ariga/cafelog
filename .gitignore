@@ -2,6 +2,9 @@
 # 要らないファイルの移動先
 old-files/
 
+# VS code workspace
+*.code-workspace
+
 # 開発中のログ
 *.log
 

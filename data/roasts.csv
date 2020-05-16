@@ -1,4 +1,4 @@
-ID,年,月,日,豆,クロップ,重量(g),設定時間(m),Eject(s),焙煎度合(1-5)
+id,year,month,day,bean,crop,weight,time,eject,roast
 1,2019,12,2,Gesha,2019,250,20,0,2
 2,2019,12,4,Pacamara Washed,2017,200,20,0,4
 3,2019,12,4,Pacamara Natural,2017,200,20,-30,5
