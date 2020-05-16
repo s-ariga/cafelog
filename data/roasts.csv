@@ -41,3 +41,4 @@ id,year,month,day,bean,crop,weight,time,eject,roast
 40,2020,5,11,Pacamara Washed,2017,240,20,-15,3
 41,2020,5,16,Pacamara Natural,2017,240,20,-20,3
 42,2020,5,16,pacamara Natural,2017,240,20,-25,2
+43,2020,5,16,Javanica,2017,240,20,0,3
